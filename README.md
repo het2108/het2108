@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Het</h1>
 <h3 align="center">I am a Computer Engineering Student who is passionate about building responsive and dynamic web applications, specializing in React.js for the frontend and Django Rest Framework for the backend. With a strong foundation in Java and Python, I create scalable, efficient systems that enhance user experience</h3>
-<img align="right" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="het thakkar" width="400" />
+<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="het thakkar" width="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=het2108&label=Profile%20views&color=0e75b6&style=flat" alt="het2108" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=het2108&show_icons=true&locale=en&layout=compact" alt="het2108" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=het2108&show_icons=true&locale=en" alt="het2108" /></p>
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=het2108&show_icons=true&locale=en" alt="het2108" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=het2108&" alt="het2108" /></p>
