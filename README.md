@@ -55,7 +55,6 @@
 - 🎙️ **[Airecruiter](#)** — End-to-end AI interview automation system using Retell AI voice agents and ChatGPT-based response scoring.
 - 📈 **[SalesLinkUp](#)** — AI-driven sales automation platform for lead extraction and outreach, using Playwright/Selenium browser automation.
 
-*(Replace the `#` links above with your actual repo URLs.)*
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=het2108&show_icons=true&locale=en&layout=compact" alt="het2108" /></p>
 
